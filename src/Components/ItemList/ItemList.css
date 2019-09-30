@@ -1,0 +1,8 @@
+/* Styles for the list of products */
+
+.ItemList {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 2.0rem 10%;
+}
